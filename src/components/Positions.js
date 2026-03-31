@@ -1,5 +1,3 @@
-import React, { useState, useEffect } from "react";
-import axios from "axios";
 import { positions } from "../data/data";
 
 const Positions = () => {
